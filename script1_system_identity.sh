@@ -1,16 +1,16 @@
 #!/bin/bash
 # =============================================================
 # Script 1: System Identity Report
-# Author: [Khushraj Rai] | Registration No. : [24BHI10012]
+# Author: Khushraj Rai | Registration No. : 24BHI10012
 # Course: Open Source Software | VITyarthi
 # Description: Displays a welcome screen with system info and
 #              confirms the OS and Firefox license details.
 # =============================================================
 
 # --- Student & Software Variables ---
-STUDENT_NAME="[Khushraj Rai]"         # Replace with your name
-REGISTRATION_NUMBER="[24BHI10012]"   # Replace with your roll number
-SOFTWARE_CHOICE="Firefox"          # Chosen open-source software
+STUDENT_NAME="Khushraj Rai"        
+REGISTRATION_NUMBER="24BHI10012"  
+SOFTWARE_CHOICE="Firefox"         
 
 # --- Gather System Information using command substitution ---
 KERNEL=$(uname -r)                                                            # Linux kernel version

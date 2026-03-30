@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 5: Open Source Manifesto Generator
-# Author: [Khushraj Rai] | Registration No. : [24BHI10012]
+# Author: Khushraj Rai | Registration No. : 24BHI10012
 # Course: Open Source Software | VITyarthi
 # Description: Asks the user 3 interactive questions, composes
 #              a personalised open-source philosophy statement

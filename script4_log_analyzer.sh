@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 4: Log File Analyzer
-# Author: [Khushraj Rai] | Registration No. : [24BHI10012]
+# Author: Khushraj Rai | Registration No. : 24BHI10012
 # Course: Open Source Software | VITyarthi
 # Description: Reads a log file line by line, counts occurrences
 #              of a keyword, shows last 5 matches, and includes

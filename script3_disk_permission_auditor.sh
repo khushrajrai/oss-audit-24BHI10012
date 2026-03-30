@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 3: Disk and Permission Auditor
-# Author: [Khushraj Rai] | Registration No. : [24BHI10012]
+# Author: Khushraj Rai | Registration No. : 24BHI10012
 # Course: Open Source Software | VITyarthi
 # Description: Loops through key system directories, reports
 #              permissions and disk usage, then checks Firefox's

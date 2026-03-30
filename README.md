@@ -8,19 +8,17 @@
 
 | Field | Details |
 |---|---|
-| **Name** | [Khushraj Rai] |
-| **Registration Number** | [24BHI10012] |
-| **Slot** | [B22] |
-| **Course** | [Open Source Software (NGMC)] |
-| **Date of Submission** | [30/03/2026] |
+| **Name** | Khushraj Rai |
+| **Registration Number** | 24BHI10012 |
+| **Slot** | B22 |
+| **Course** | Open Source Software (NGMC) |
+| **Date of Submission** | 30/03/2026 |
 
 ---
 
 ## Chosen Software
 
 **[Firefox]**
-
-> Example: **Git** — A distributed version control system licensed under GPL v2, originally created by Linus Torvalds in 2005.
 
 ---
 

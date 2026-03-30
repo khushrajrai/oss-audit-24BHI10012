@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 2: FOSS Package Inspector
-# Author: [Khushraj Rai] | Registration No. : [24BHI10012]
+# Author: Khushraj Rai | Registration No. : 24BHI10012
 # Course: Open Source Software | VITyarthi
 # Description: Checks if Firefox is installed, displays version
 #              and license info, and prints a philosophy note
