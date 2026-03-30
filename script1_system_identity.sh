@@ -10,7 +10,7 @@
 # --- Student & Software Variables ---
 STUDENT_NAME="Khushraj Rai"        
 REGISTRATION_NUMBER="24BHI10012"  
-SOFTWARE_CHOICE="Firefox"         
+SOFTWARE_CHOICE="Firefox"      
 
 # --- Gather System Information using command substitution ---
 KERNEL=$(uname -r)                                                            # Linux kernel version
@@ -33,7 +33,7 @@ echo "============================================================"
 echo "        OPEN SOURCE AUDIT — SYSTEM IDENTITY REPORT         "
 echo "============================================================"
 echo ""
-echo "  Student    : $STUDENT_NAME ($ROLL_NUMBER)"
+echo "  Student    : $STUDENT_NAME ($REGISTRATION_NUMBER)"
 echo "  Software   : $SOFTWARE_CHOICE"
 echo "------------------------------------------------------------"
 echo "  Distro     : $DISTRO"

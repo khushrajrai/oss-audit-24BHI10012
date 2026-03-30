@@ -18,14 +18,15 @@
 
 ## Chosen Software
 
-**[Firefox]**
+**Firefox**
 
 ---
 
 ## Repository Structure
 ```
-oss-audit-[24BHI10012]/
+oss-audit-24BHI10012/
 ├── README.md
+├── oss-audit-24BHI10012.pdf
 ├── script1_system_identity.sh
 ├── script2_package_inspector.sh
 ├── script3_disk_permission_auditor.sh
