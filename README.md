@@ -1,4 +1,4 @@
-# OSS Audit — [24BHI10012]
+# OSS Audit — 24BHI10012
 
 > **Open Source Software Audit** | VITyarthi | OSS NGMC Course
 
